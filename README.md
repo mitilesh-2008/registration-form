@@ -1,5 +1,3 @@
-# registration-form
-A simple and user-friendly desktop registration form built using Python and Tkinter. It demonstrates GUI design, input fields, buttons, validation, and basic event handling in Tkinter.
 # Python Tkinter Registration Form
 
 A simple **Registration Form GUI** developed using **Python Tkinter**. This project is designed for beginners who are learning Python GUI development and want to understand how Tkinter widgets and event handling work.
